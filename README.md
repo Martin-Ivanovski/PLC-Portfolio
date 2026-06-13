@@ -21,7 +21,7 @@ through dual-platform (Allen-Bradley & Siemens) competency.
 ## Projects by Level
 
 - [Level 1 — Fundamentals](./Level-1-Fundamentals)
-- [Level 2 — Applied Logic](./Level-2-Applied-Logic) *(In Progress)*
+- [Level 2 — Applied Logic](./Martin-Ivanovski/PLC-Dojo-Level-2-Applied-Logic) *(In Progress)*
 - Level 3 — HMI Programming *(Coming Soon)*
 - Level 4 — IEC Paradigms *(Coming Soon)*
 - Level 5 — TIA Portal Master Project *(Coming Soon)*
