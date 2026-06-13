@@ -47,6 +47,5 @@ manufacturing environments.
 ---
 
 ## Connect
-Location: Wolverine Lake, Michigan
 LinkedIn: https://www.linkedin.com/in/ivanovskim/
 
