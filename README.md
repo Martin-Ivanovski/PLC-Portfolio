@@ -20,7 +20,7 @@ through dual-platform (Allen-Bradley & Siemens) competency.
 
 ## Projects by Level
 
-- [Level 1 — Fundamentals](<https://github.com/Martin-Ivanovski/PLC-Dojo-Level-1-Fundamentals.git>)
+- [Level 1 — Fundamentals](<https://github.com/Martin-Ivanovski/PLC-Dojo-Level-1-Fundamentals.git>) *(Completed)*
 - [Level 2 — Applied Logic](<https://github.com/Martin-Ivanovski/PLC-Dojo-Level-2-Applied-Logic.git>) *(In Progress)*
 - Level 3 — HMI Programming *(Coming Soon)*
 - Level 4 — IEC Paradigms *(Coming Soon)*
