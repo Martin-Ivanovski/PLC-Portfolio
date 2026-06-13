@@ -20,7 +20,7 @@ through dual-platform (Allen-Bradley & Siemens) competency.
 
 ## Projects by Level
 
-- [Level 1 — Fundamentals](,https://github.com/Martin-Ivanovski/PLC-Dojo-Level-1-Fundamentals.git>)
+- [Level 1 — Fundamentals](<https://github.com/Martin-Ivanovski/PLC-Dojo-Level-1-Fundamentals.git>)
 - [Level 2 — Applied Logic](<https://github.com/Martin-Ivanovski/PLC-Dojo-Level-2-Applied-Logic.git>) *(In Progress)*
 - Level 3 — HMI Programming *(Coming Soon)*
 - Level 4 — IEC Paradigms *(Coming Soon)*
@@ -38,8 +38,8 @@ manufacturing environments.
 ## Projects by Level
 | Level | Projects | Status |
 |-------|----------|--------|
-| [Level 1 - Fundamentals] | Complete |
-| [Level 2 - Applied Logic](link) | In progress | Active |
+| [Level 1 - Fundamentals](<https://github.com/Martin-Ivanovski/PLC-Dojo-Level-1-Fundamentals.git>) | Complete |
+| [Level 2 - Applied Logic](<https://github.com/Martin-Ivanovski/PLC-Dojo-Level-2-Applied-Logic.git>) | In progress | Active |
 | Level 3 - Process Visualization (HMI) | Coming soon | Upcoming |
 | Level 4 - IEC Paradigms | Coming soon | Upcoming |
 | Level 5 - TIA Portal Master Project | Coming soon | Upcoming |
