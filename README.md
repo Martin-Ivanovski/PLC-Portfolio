@@ -11,8 +11,8 @@ through dual-platform (Allen-Bradley & Siemens) competency.
 
 ## Certifications In Progress - PLC Dojo
 - ✅ PLC Dojo Level 1 — Fundamentals (Completed)
-- 🔄 PLC Dojo Level 2 — Applied Logic (In Progress)
-- ⬜ PLC Dojo Level 3 — Process Visualization (Coming Soon)
+- ✅ PLC Dojo Level 2 — Applied Logic (Completed)
+- 🔄 PLC Dojo Level 3 — Process Visualization (In Progress)
 - ⬜ PLC Dojo Level 4 — IEC Paradigms (Coming Soon)
 - ⬜ PLC Dojo Level 5 — TIA Portal Master Project (Coming Soon)
 
@@ -21,8 +21,8 @@ through dual-platform (Allen-Bradley & Siemens) competency.
 ## Projects by Level
 
 - [Level 1 — Fundamentals](<https://github.com/Martin-Ivanovski/PLC-Dojo-Level-1-Fundamentals.git>) *(Completed)*
-- [Level 2 — Applied Logic](<https://github.com/Martin-Ivanovski/PLC-Dojo-Level-2-Applied-Logic.git>) *(In Progress)*
-- Level 3 — HMI Programming *(Coming Soon)*
+- [Level 2 — Applied Logic](<https://github.com/Martin-Ivanovski/PLC-Dojo-Level-2-Applied-Logic.git>) *(Completed)*
+- Level 3 — HMI Programming *(In Progress)*
 - Level 4 — IEC Paradigms *(Coming Soon)*
 - Level 5 — TIA Portal Master Project *(Coming Soon)*
 
@@ -38,9 +38,9 @@ manufacturing environments.
 ## Projects by Level
 | Level | Projects | Status |
 |-------|----------|--------|
-| [Level 1 - Fundamentals](<https://github.com/Martin-Ivanovski/PLC-Dojo-Level-1-Fundamentals.git>) | Complete |
-| [Level 2 - Applied Logic](<https://github.com/Martin-Ivanovski/PLC-Dojo-Level-2-Applied-Logic.git>) | In progress | Active |
-| Level 3 - Process Visualization (HMI) | Coming soon | Upcoming |
+| [Level 1 - Fundamentals](<https://github.com/Martin-Ivanovski/PLC-Dojo-Level-1-Fundamentals.git>) | N/A | Complete |
+| [Level 2 - Applied Logic](<https://github.com/Martin-Ivanovski/PLC-Dojo-Level-2-Applied-Logic.git>) | 10 | Complete |
+| Level 3 - Process Visualization (HMI) | In Progress | Active |
 | Level 4 - IEC Paradigms | Coming soon | Upcoming |
 | Level 5 - TIA Portal Master Project | Coming soon | Upcoming |
 
